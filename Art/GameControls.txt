@@ -1,0 +1,8 @@
+
+
+# with mouse in 3d Viewport, press "p" to play
+# Use arrow keys for movement
+# , and . for turning
+# spacebar to jump
+
+# with mouse in 3d viewport, press "Esc" key to quit
